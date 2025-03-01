@@ -28,7 +28,7 @@ This application is designed to help you set up and manage message forwarding be
 
 ## Getting Started
 
-You can use this Message Forwarding Application for your use case to enhance your communication system. Its powerful filtering and forwarding capabilities help you manage message flow and maintain consistency across your chat groups with minimal effort.
+You can use this Message Forwarder for your use case to enhance your communication system. Its powerful filtering and forwarding capabilities help you manage message flow and maintain consistency across your chat groups with minimal effort.
 
 ---
 

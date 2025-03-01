@@ -2,7 +2,7 @@
 
 This application is designed to help you set up and manage message forwarding between different chat groups seamlessly. It provides an intuitive and responsive interface that adapts to both light and dark modes, ensuring a consistent experience across devices and environments.
 
-![Application Screenshot](https://example.com/screenshot.png)
+![Application Screenshot](https://github.com/devagarwal007/Whatsapp-Forwarder/blob/866de8774ae88b04f7f34ec272f0b9aab1ecb0e2/image.png)
 
 ## Features
 

@@ -1,4 +1,4 @@
-# Message Forwarding
+# Whatsapp Forwarding
 
 This application is designed to help you set up and manage message forwarding between different chat groups seamlessly. It provides an intuitive and responsive interface that adapts to both light and dark modes, ensuring a consistent experience across devices and environments.
 

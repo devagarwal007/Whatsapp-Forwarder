@@ -24,11 +24,13 @@ This application is designed to help you set up and manage message forwarding be
 - **Effortless Management:**  
   Easily view, edit, and delete your forwarding configurations through a clear and organized dashboard.
 
+![Application Screenshot](https://github.com/devagarwal007/Whatsapp-Forwarder/blob/866de8774ae88b04f7f34ec272f0b9aab1ecb0e2/image.png)
+
 ## Getting Started
 
 You can use this Message Forwarding Application for your use case to enhance your communication system. Its powerful filtering and forwarding capabilities help you manage message flow and maintain consistency across your chat groups with minimal effort.
 
 ---
 
-For more information or to get this application available for your project, please contact:  
+To get this application available for you, please contact:  
 **devagarwalmnnit@gmail.com**

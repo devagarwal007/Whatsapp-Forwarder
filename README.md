@@ -34,3 +34,8 @@ You can use this Message Forwarder for your use case to enhance your communicati
 
 To get this application available for you, please contact:  
 **devagarwalmnnit@gmail.com**
+
+
+\#WhatsappAutoForwarder
+\#WhatsappForwarding
+\#WhatsappForwardingAuto
